@@ -8,7 +8,7 @@
 
 <ul>
 {% for node in site.pages %}
-  {% if node.url = page.url %}
+  {% if node.url == page.url %}
     {% assign selected = 'class="selected"' %}
   {% endif %}
   {% if node.url contains base_url %}
