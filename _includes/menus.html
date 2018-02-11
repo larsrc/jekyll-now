@@ -5,7 +5,7 @@
 {% assign rm = url_parts | last %}
 {% assign base_url = page.url | replace: rm %}
 
-<b> {{url_parts_size}} pages in {{base_url}}: </b>
+<b> {{url_parts_size}} pages in {{base_url}} after removing {{rm}}: </b>
 <ul>
 {% for node in site.pages %}
   <li>(<a href='{{node.url}}'>{{node.url}}</a>)</li>
