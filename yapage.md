@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yet Another Page
-permalink: /yapage/
+permalink: /foop/yapage/
 ---
 
 Just Another...
