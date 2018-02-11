@@ -1,6 +1,4 @@
----
----
-$color-coffee: #644C37;
+{% include menus.html %}
 
 
 It tests files. What'd'ya expect?
