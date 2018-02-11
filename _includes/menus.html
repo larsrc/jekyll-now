@@ -2,9 +2,9 @@
 
 {% assign url_parts = page.url | split: '/' %}
 {% assign url_parts_size = url_parts | size %}
-{% assign rm = url_parts | last | append '/' %}
+{% assign rm = url_parts | last | append: '/' %}
 {% assign base_url = page.url | replace: rm %}
-{% assign other_base = url_parts | pop | join '/' %}
+{% assign other_base = url_parts | pop | join: '/' %}
 
 <b> {{url_parts_size}} pages in {{base_url}} after removing {{rm}} - other other base {{other_base}}: </b>
 <ul>
