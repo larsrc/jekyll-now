@@ -4,7 +4,7 @@
 //
 
 // Colors
-$blue: #4183C4;
+$blue: #005500;
 
 // Grays
 $black: #000;
@@ -24,4 +24,18 @@ $georgia: Georgia, serif;
   @media screen and (max-width: 640px) {
     @content;
   }
+}
+
+.selected {
+  font-weight: bold;
+}
+
+li.menuitem {
+  display: inline;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+ul.menu {
+  display: flex;
 }
