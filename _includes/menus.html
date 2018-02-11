@@ -9,9 +9,9 @@
 <ul>
 {% for node in site.pages %}
   {% if node.url == page.url %}
-    {% assign selected = 'class="selected"' %}
+    {% assign selected = 'class="menuitem selected"' %}
   {% else %}
-    {% assign selected = '' %}
+    {% assign selected = 'menuitem' %}
   {% endif %}
   {% if node.url contains base_url %}
     {% assign node_url_parts = node.url | split: '/' %}
