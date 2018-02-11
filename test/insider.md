@@ -5,4 +5,4 @@ title: Insider
 
 {% include menus.html %}
 
-Inside test page
+Inside test page without permalink
