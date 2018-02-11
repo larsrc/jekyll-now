@@ -10,6 +10,8 @@
 {% for node in site.pages %}
   {% if node.url == page.url %}
     {% assign selected = 'class="selected"' %}
+  {% else %}
+    {% assign selected = '' %}
   {% endif %}
   {% if node.url contains base_url %}
     {% assign node_url_parts = node.url | split: '/' %}
