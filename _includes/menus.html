@@ -8,7 +8,7 @@
 <b> {{url_parts_size}} pages: </b>
 <ul>
 {% for node in site.pages %}
-  <li>({{node.title}})</li>
+  <li>({{node.url}})</li>
   {% if node.url contains base_url %}
     {% assign node_url_parts = node.url | split: '/' %}
     {% assign node_url_parts_size = node_url_parts | size %}
