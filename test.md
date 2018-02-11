@@ -1,3 +1,9 @@
+---
+layout: page
+title: Test
+permalink: /test/
+---
+
 {% include menus.html %}
 
 
