@@ -1,10 +1,16 @@
-* Welcome to Monachium, the München Belegarth group!
+---
+layout: post
+title:  "Monachium Homepage"
+ref: homepage
+lang: en
+---
+# Welcome to Monachium, the München Belegarth group!
 
 You've found the site for the most fast, fun, and furious sport to invade München in centuries!
 We are an group that meets for good natured fighting.
 We hail from all countries from over the world and as well as all genders.
 
-** Fighting dates
+## Fighting dates
 
 The 2017 fighting season was our best ever, but now winter has come.
 Come back in 2018 for even more fighting - and the first-ever [European Belegarth event](http://battlevaria.monachium.org/!
