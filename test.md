@@ -8,3 +8,5 @@ permalink: /test/
 
 
 It tests files. What'd'ya expect?
+
+Check out the subdir at [the test dir](/test/insider/).
