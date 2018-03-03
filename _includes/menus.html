@@ -7,7 +7,7 @@
 {% assign other_base = url_parts | pop | join: '/' %}
 
 <ul class='menu'>
-{% for node in site.pages %}
+{% for node in site.pages | where:"lang", page.lang %}
   {% if node.url == page.url %}
     {% assign selected = 'class="selected"' %}
   {% else %}
