@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Monachium Homepage"
 ref: homepage
 lang: en
