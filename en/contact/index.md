@@ -3,7 +3,8 @@ layout: page
 title: Contact
 lang: en
 ref: contact
-permalink: en/contact.html
+permalink: en/contact
+order: 5
 ---
 
 # Main contact
