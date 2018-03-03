@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Monachium Homepage"
+title:  "Monachium"
 ref: homepage
-lang: en
 ---
 
 # Welcome to Monachium, the München Belegarth group!
