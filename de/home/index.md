@@ -1,3 +1,10 @@
+---
+layout: page
+title: Home
+permalink: de/home
+lang: de
+---
+
 Willkommen bei Monachium, der ersten München Belegarth Gruppe!
 
 Die Seite für den schnellsten und aufregendsten Sport, der München seit Jahrhunderten eroberte!
