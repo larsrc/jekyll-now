@@ -1,3 +1,11 @@
+---
+layout: page
+title: FAQ
+lang: en
+ref: faq
+permalink: en/faq.html
+---
+
 # FAQ
 ## What is Monachium? 
 Monachium is the Munich [Belegarth](https://www.belegarth.com) medieval fighting group. 
