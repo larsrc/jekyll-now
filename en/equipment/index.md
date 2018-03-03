@@ -3,7 +3,7 @@ layout: page
 title: Equipment
 lang: en
 ref: equipment
-permalink: en/equipment.html
+permalink: en/equipment
 ---
 
 # Weapons
