@@ -12,6 +12,8 @@ A number of instructions on how to make weapons can be found on the Belegarth we
 
 ## Swords
 
+![A selection of swords](/images/swords.png)
+
 These are the "core" weapons, and we always have a selection available. We occasionally make mass purchases from
 [Forged Foam](http://www.forgedfoam.com/) in the US, but the freight and import toll add up. These are also 
 the most heavily used items, so good construction matters. A well-built sword can last for years of weekly practice,
@@ -19,13 +21,20 @@ a poor one breaks after just a few hours.
 
 ## Axes and Flails
 
+![Aflail and an axe](/images/failnAx.png)
+
 These add not just a different look, but also have their own strengths and weaknesses compared to swords.
 
 ## Spears, halberds, javelins, etc
 
+![A spear](/images/spear.png)
+
 Fun to use, especially in larger groups, these weapons are also fairly simple to make.
 
 ## Bow and arrow
+
+![A bow with arrows](/images/bowAndArrow.png)
+
 Bows must be authentic-looking (i.e., wooden, not composite) and have a maximum draw of 35 pounds at 28 inches 
 (the standard arrow length). [TDH Bogensport in Westend](http://www.tdh-bogensport.de/) has a large selection starting
 at €100 - make sure to peruse their catalog, as they only have a small number of bows in the shop.
@@ -38,6 +47,8 @@ For that reason, we generally don't let rank beginners use the bow.
 
 There are plenty of tutorials on how to make armor on the web, and a large number of shops sell applicable armor. 
 Some commercial armor does not conform to our standards, though, so read the armor rules carefully, or ask a veteran.
+
+![A fighter with armor and protective items](/images/Lars2.png)
 
 ## Armor
 With Armor (Green Tags) we mean all items that are associated with authentic Armor pieces that would protect one
@@ -83,8 +94,12 @@ Sturdy Shoes
 We recommend having this kind of protection, if you are coming more often.
 
 ## Garb
+
 Garb is a term used for garments that fit into the time frame of middle ages. Again it is a personal choice 
-wearing it. We have people coming in all kinds of outfit, just make sure it can get dirty.
+wearing it. We have people coming in all kinds of outfit, just make sure it can get dirty. Garb does not change the
+combat, but makes it look a lot better:
+
+![Garbed fights](/images/ellie_apland_archer2.jpg)
 
 ## Shields 
 These are easy to make once you find the right foam, and strap shields are best made according to the 
