@@ -3,13 +3,13 @@
 Menu 3 for {{page.url}} ({{page.lang}})
 
 <ul class='menu'>
-{% for node in site.pages | where:'lang',page.lang | sort:'order' %}
+{% for node in site.pages | sort:'order' %}
   {% if node.url == page.url %}
     {% assign selected = 'class="selected"' %}
   {% else %}
     {% assign selected = '' %}
   {% endif %}
-  {% if node.title and node.url != '/404/' %}
+  {% if node.lang == page.lang and node.title and node.url != '/404/' %}
       <li class='menuitem'><a {{selected}} href='{{node.url}}'>{{node.title}} ({{node.lang}}) @{{node.url}}</a></li>
   {% endif %}
 {% endfor %}
