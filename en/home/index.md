@@ -3,7 +3,7 @@ layout: page
 title: Home
 ref: home
 lang: en
-permalink: en/home.html
+permalink: en/home
 ---
 # Welcome to Monachium, the München Belegarth group!
 
