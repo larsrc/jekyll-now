@@ -7,7 +7,7 @@
   {% else %}
     {% assign selected = '' %}
   {% endif %}
-  {% if node.title != '' && node.url != '404.md' %}
+  {% if node.title != '' and node.url != '404.md' %}
       <li class='menuitem'><a {{selected}} href='{{node.url}}'>{{node.title}}</a></li>
   {% endif %}
 {% endfor %}
