@@ -1,7 +1,9 @@
 ---
+layout: post
 title: Belegarth
 lang: en
 ref: belegarth
+permalink: en/belegarth.html
 ---
 
 # What is Belegarth?
