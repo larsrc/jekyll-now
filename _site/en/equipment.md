@@ -21,7 +21,7 @@ a poor one breaks after just a few hours.
 
 ## Axes and Flails
 
-![Aflail and an axe](/images/failnAx.png)
+![A flail and an axe](/images/failnAx.png)
 
 These add not just a different look, but also have their own strengths and weaknesses compared to swords.
 
@@ -33,7 +33,7 @@ Fun to use, especially in larger groups, these weapons are also fairly simple to
 
 ## Bow and arrow
 
-![A bow with arrows](/images/bowAndArrow.png)
+![A bow with arrows](/images/bowAndArrrow.png)
 
 Bows must be authentic-looking (i.e., wooden, not composite) and have a maximum draw of 35 pounds at 28 inches 
 (the standard arrow length). [TDH Bogensport in Westend](http://www.tdh-bogensport.de/) has a large selection starting
