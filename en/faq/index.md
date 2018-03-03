@@ -3,7 +3,7 @@ layout: page
 title: FAQ
 lang: en
 ref: faq
-permalink: en/faq.html
+permalink: en/faq
 order: 4
 ---
 
