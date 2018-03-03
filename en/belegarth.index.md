@@ -3,7 +3,7 @@ layout: page
 title: Belegarth
 lang: en
 ref: belegarth
-permalink: en/belegarth.html
+permalink: en/belegarth
 ---
 
 # What is Belegarth?
