@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  "Monachium Homepage"
-ref: homepage
+title: Home
+ref: home
 lang: en
-permalink: en/homepage.html
+permalink: en/home.html
 ---
 # Welcome to Monachium, the München Belegarth group!
 
