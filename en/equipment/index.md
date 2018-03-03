@@ -4,6 +4,7 @@ title: Equipment
 lang: en
 ref: equipment
 permalink: en/equipment
+order: 3
 ---
 
 # Weapons
