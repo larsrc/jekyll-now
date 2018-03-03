@@ -3,7 +3,7 @@
 Menu 2 for {{page.url}} ({{page.lang}})
 
 <ul class='menu'>
-{% for node in site.pages | where:'lang', page.lang | sort: 'order' %}
+{% for node in site.pages | where:'lang',page.lang | sort: 'order' %}
   {% if node.url == page.url %}
     {% assign selected = 'class="selected"' %}
   {% else %}
