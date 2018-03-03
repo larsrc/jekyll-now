@@ -4,6 +4,7 @@ title: Home
 ref: home
 lang: en
 permalink: en/home
+order: 1
 ---
 # Welcome to Monachium, the München Belegarth group!
 
