@@ -1,7 +1,9 @@
 ---
+layout: post
 title: Contact
 lang: en
 ref: contact
+permalink: en/contact.html
 ---
 
 # Main contact
