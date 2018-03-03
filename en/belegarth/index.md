@@ -4,6 +4,7 @@ title: Belegarth
 lang: en
 ref: belegarth
 permalink: en/belegarth
+order: 2
 ---
 
 # What is Belegarth?
