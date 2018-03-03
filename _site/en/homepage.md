@@ -3,6 +3,7 @@ layout: post
 title:  "Monachium Homepage"
 ref: homepage
 lang: en
+permalink: en/homepage.html
 ---
 # Welcome to Monachium, the München Belegarth group!
 
