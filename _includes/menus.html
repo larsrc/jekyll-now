@@ -1,7 +1,9 @@
 <!-- Based on a more advanced version: https://thinkshout.com/blog/2014/12/creating-dynamic-menus-in-jekyll/ -->
 
+Menu for {{page.url}}
+
 <ul class='menu'>
-{% for node in site.pages | where:"lang", page.lang %}
+{% for node in site.pages | where:"lang", page.lang | sort: page.order %}
   {% if node.url == page.url %}
     {% assign selected = 'class="selected"' %}
   {% else %}
