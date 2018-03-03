@@ -1,10 +1,4 @@
-<!-- From https://thinkshout.com/blog/2014/12/creating-dynamic-menus-in-jekyll/ -->
-
-{% assign url_parts = page.url | split: '/' %}
-{% assign url_parts_size = url_parts | size %}
-{% assign rm = url_parts | last | append: '/' %}
-{% assign base_url = page.url | replace: rm %}
-{% assign other_base = url_parts | pop | join: '/' %}
+<!-- Based on a more advanced version: https://thinkshout.com/blog/2014/12/creating-dynamic-menus-in-jekyll/ -->
 
 <ul class='menu'>
 {% for node in site.pages | where:"lang", page.lang %}
@@ -13,14 +7,7 @@
   {% else %}
     {% assign selected = '' %}
   {% endif %}
-  {% if node.url contains base_url %}
-    {% assign node_url_parts = node.url | split: '/' %}
-    {% assign node_url_parts_size = node_url_parts | size %}
-    {% assign filename = node_url_parts | last %}
-    {% if url_parts_size == node_url_parts_size and filename != 'index.html' %}
       <li class='menuitem'><a {{selected}} href='{{node.url}}'>{{node.title}}</a></li>
-    {% endif %}
-  {% endif %}
 {% endfor %}
 </ul>
-<hr/>
+
