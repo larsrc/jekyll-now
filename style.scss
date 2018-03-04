@@ -260,8 +260,15 @@ nav {
 .language-picker {
   right: 20px;
   position: absolute;
+  
+  ul {
+    margin: 0;
+    
+    li {
+      display: block;
+    }
+  }
 }
-
 
 //
 // .main
