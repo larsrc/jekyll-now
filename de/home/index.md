@@ -3,6 +3,8 @@ layout: page
 title: Home
 permalink: de/home
 lang: de
+order: 1
+ref: home
 ---
 
 Willkommen bei Monachium, der ersten München Belegarth Gruppe!
