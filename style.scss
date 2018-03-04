@@ -20,7 +20,7 @@ html {
 body {
   background-image: url("/images/BackgroundTiled.jpg");
   background-repeat: repeat;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $serif;
   color: $darkGray;
 }
 
@@ -32,7 +32,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $sansSerif;
   color: $darkerGray;
   font-weight: bold;
 
@@ -191,7 +191,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $sansSerif;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -209,7 +209,7 @@ img {
 
 nav {
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $sansSerif;
   font-size: 18px;
 
   @include mobile {
