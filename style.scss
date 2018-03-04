@@ -224,15 +224,29 @@ nav {
     font-size: 16px;
   }
 
-  a {
+	.menu {
+    display: flex;
     margin-left: 20px;
+    margin-right: 20px;
+    align-content: space-between;
+    align-items: center;
+  }
+
+  li.menuitem {
+    display: block;
+    flex: 1;
+  }
+
+  .menu .selected {
+    text-decoration: underline;
+  }
+  
+  a {
     color: $darkGray;
-    text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
-      margin: 0 10px;
       color: $blue;
     }
   }
