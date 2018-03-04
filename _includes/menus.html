@@ -1,6 +1,7 @@
 <!-- Based on a more advanced version: https://thinkshout.com/blog/2014/12/creating-dynamic-menus-in-jekyll/ -->
 
 <ul class='menu'>
+  <div class="flexfill"></div>
 {% for node in site.pages | sort:'order' %}
   {% if node.url == page.url %}
     {% assign selected = 'class="selected"' %}
@@ -9,6 +10,7 @@
   {% endif %}
   {% if node.lang == page.lang and node.title and node.url != '/404/' %}
       <li class='menuitem'><a {{selected}} href='{{node.url}}'>{{node.title}}</a></li>
+      <div class="flexfill"></div>
   {% endif %}
 {% endfor %}
 </ul>
