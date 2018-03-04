@@ -2,7 +2,8 @@
 
 <ul class='menu'>
   <div class="flexfill"></div>
-{% for node in site.pages | sort:'order' %}
+{% assign pages = (site.pages | sort:'order') %}
+{% for node in pages %}
   {% if node.url == page.url %}
     {% assign selected = 'class="selected"' %}
   {% else %}
