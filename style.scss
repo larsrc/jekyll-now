@@ -230,9 +230,6 @@ nav {
 
   .menu {
     display: flex;
-    margin-left: 20px;
-    margin-right: 20px;
-    align-items: center;
     @include mobile {
       margin: 0;
       padding: 0;
