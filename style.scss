@@ -144,6 +144,10 @@ img {
     clear: both;
 }
 
+.flexfill {
+    flex: 1;
+}
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
@@ -224,17 +228,19 @@ nav {
     font-size: 16px;
   }
 
-	.menu {
+  .menu {
     display: flex;
     margin-left: 20px;
     margin-right: 20px;
-    align-content: space-between;
     align-items: center;
+    @include mobile {
+      margin: 0;
+      padding: 0;
+    }
   }
 
   li.menuitem {
     display: block;
-    flex: 1;
   }
 
   .menu .selected {
