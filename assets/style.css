@@ -2,8 +2,8 @@
 
 #art-main
 {
-   background: #EBEBEB url('images/page.jpeg') top center repeat-y scroll;
-   background: url('images/pageglare.jpeg') top center no-repeat, url('images/page.jpeg') top center repeat-y, #EBEBEB;
+   background: #EBEBEB url('/images/page.jpeg') top center repeat-y scroll;
+   background: url('/images/pageglare.jpeg') top center no-repeat, url('images/page.jpeg') top center repeat-y, #EBEBEB;
    margin:0 auto;
    font-size: 12px;
    font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif;
@@ -503,7 +503,7 @@ li p, .art-postcontent li p, .art-blockcontent li p
    margin:0 auto;
    background-repeat: no-repeat;
    height: 250px;
-   background-image: url('images/object616340668.png'), url('images/header.png');
+   background-image: url('/images/object616340668.png'), url('images/header.png');
    background-position: 0px 48px, 0 0;
    position: relative;
    z-index: auto !important;
@@ -511,7 +511,7 @@ li p, .art-postcontent li p, .art-blockcontent li p
 
 .custom-responsive .art-header
 {
-   background-image: url('images/object616340668.png'), url('images/header.png');
+   background-image: url('/images/object616340668.png'), url('images/header.png');
    background-position: 0px 48px, 0 0;
 }
 
