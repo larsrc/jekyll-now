@@ -19,7 +19,7 @@ order: 1
         <span style="font-weight: bold; font-size: 24px;">Battlevaria I</span><br><span style="font-weight: bold; font-size: 16px;">"Auf sie mit Gebrüll"</span><br>A Monachium e.V. event<br><br><span style="font-size: 18px;">17. - 19. Aug 2018<br>94267 Prackenbach, Germany</span><br><br>
     </div><div class="art-layout-cell layout-item-1" style="width: 67%">
         <h1><span style="color: #D77F33;">Save THE DATE!</span></h1>
-        <p>We are getting ready to run the first-ever Belegarth event in Europe!</p><p><span style="font-size: 20px; font-weight: bold;">DATE: 17.-19. Aug 2018</span></p><p>LOCATION:&nbsp;94267 Prackenbach, Germany</p><p><br></p>
+        <p>We are getting ready to run the first-ever Belegarth event in Europe!</p><p><span style="font-size: 20px; font-weight: bold;">DATE: 17.-19. Aug 2018</span></p><p>LOCATION:&nbsp;Jugendhaus Kugelbach, 94267 Prackenbach, Germany</p><p><br></p>
     </div>
     </div>
 </div>
