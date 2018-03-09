@@ -1,6 +1,11 @@
 ---
+
 layout: default
 title: Contact Us
+lang: en
+permalink: en/contact-us
+link: contact-us.html
+order: 3
 ---
 
 <div class="art-layout-wrapper">
