@@ -1,9 +1,12 @@
 ---
-layout: default
+layout: page
 title: Pre-register
-permalink: pre-register.html
+ref: preregister
+lang: en
+permalink: en/pre-register
+link: pre-register.html
+order: 2
 ---
-
 <div class="art-layout-wrapper">
                 <div class="art-content-layout">
                     <div class="art-content-layout-row">
