@@ -97,15 +97,5 @@ order: 2
 </article></div>
                     </div>
                 </div>
-            </div><footer class="art-footer">
-<div class="art-content-layout layout-item-0">
-    <div class="art-content-layout-row responsive-layout-row-3">
-    <div class="art-layout-cell layout-item-1" style="width: 25%">
-        <p>&nbsp;&nbsp;&nbsp;</p>
-    </div><div class="art-layout-cell layout-item-1" style="width: 42%">
-        <p style="text-align: center;">Monachium e.V. Munich, Germany</p>
-    </div><div class="art-layout-cell layout-item-1" style="width: 33%">
-        <p style="text-align: right;"><a href="https://battlevaria.monachium.org/pre-register.html#">About Us</a>&nbsp;&nbsp;<a href="https://battlevaria.monachium.org/pre-register.html#">Contact Us</a>&nbsp;</p>
-    </div>
-    </div>
-</div>
+            </div>
+            
