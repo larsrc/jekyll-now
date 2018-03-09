@@ -90,7 +90,7 @@ order: 2
 </tbody>
 </table>
 <br>
-<p><span style="font-weight: bold;">Please note:</span>&nbsp;this is not the full registration only a pre-registration of interest. However if the event fills up..."first in first served". Pre-registered means you are more likely to get a spot. Will send out a full registration form to your email &nbsp;in the up and coming months.&nbsp;<br></p><p>Make sure that mails from&nbsp;<span style="font-weight: bold;">battlevaria@monachium.org</span> dont land in your spamfolder!&nbsp;</p><p><button id="send" name="send" type="submit" value="Submit">re-Register</button>
+<p><span style="font-weight: bold;">Please note:</span>&nbsp;this is not the full registration only a pre-registration of interest. However if the event fills up..."first in first served". Pre-registered means you are more likely to get a spot. Will send out a full registration form to your email &nbsp;in the up and coming months.&nbsp;<br></p><p>Make sure that mails from&nbsp;<span style="font-weight: bold;">battlevaria@monachium.org</span> dont land in your spamfolder!&nbsp;</p><p><button id="send" name="send" type="submit" value="Submit">Pre-Register</button>
 </p></form></div>
 
 
