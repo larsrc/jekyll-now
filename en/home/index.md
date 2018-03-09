@@ -3,8 +3,7 @@ layout: page
 title: Home
 ref: home
 lang: en
-permalink: /en/home
-link: /index.html
+permalink: index.html
 order: 1
 ---
 
