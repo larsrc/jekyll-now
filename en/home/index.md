@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Battlevaria Home
+title: Home
 ref: home
 lang: en
-permalink: en/home
-link: index.html
+permalink: /en/home
+link: /index.html
 order: 1
 ---
 
