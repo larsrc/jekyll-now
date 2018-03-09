@@ -1,8 +1,16 @@
+{% assign pages = (site.pages | sort:'order') %}
 <nav class="art-nav desktop-nav">
     <a href="/index.html#" class="art-menu-btn"></a>
     <ul class="art-hmenu">
-      <li class="active"><a href="/index.html" class="active">Home</a></li>
-      <li><a href="/pre-register.html">Pre-Register</a></li>
-      <li><a href="/contact-us.html">Contact Us</a></li>
+{% for node in pages %}
+  {% if node.url == page.url %}
+    {% assign selected = 'class="active"' %}
+  {% else %}
+    {% assign selected = '' %}
+  {% endif %}
+  {% if node.lang == page.lang and node.title and node.url != '/404/' %}
+      <li {{selected}}><a href="{{node.url}}" {{selected}}>{{node.title}}</a></li>
+  {% endif %}
+{% endfor %}
     </ul> 
-  </nav>
+</nav>
