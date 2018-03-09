@@ -3,8 +3,7 @@ layout: page
 title: Pre-register
 ref: preregister
 lang: en
-permalink: en/pre-register
-link: pre-register.html
+permalink: pre-register.html
 order: 2
 ---
 <div class="art-layout-wrapper">
