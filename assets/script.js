@@ -1476,9 +1476,9 @@ jQuery(function ($) {
     if (!browser.ie || browser.version > 8)
         return;
     processElementMultiplyBg(".art-header", {
-        "bgimage": "url('images/header.png')",
+        "bgimage": "url('/images/header.png')",
         "bgposition": "0 0",
-        "images": "url('images/object616340668.png'), ",
+        "images": "url('/images/object616340668.png'), ",
         "positions": "0px 48px, "
     });
 });
